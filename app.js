@@ -1,6 +1,7 @@
 const calculadora = require('./calculadora');
 
 console.log(calculadora.sumar(8,2));
+console.log(calculadora.sumar(8,0));
 console.log(calculadora.restar(8,2));
 console.log(calculadora.multiplicar(8,2));
 console.log(calculadora.multiplicar(0,2));
