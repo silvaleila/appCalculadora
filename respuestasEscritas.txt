@@ -1,0 +1,13 @@
+a. ¿Qué hubiese sucedido si, en vez de generar un archivo por cada operación
+matemática, hubiésemos programado todo en un mismo archivo?
+
+Se podría ejecutar igual.
+
+b. ¿Por qué el mejor camino es generar distintos archivos y luego requerirlos en uno solo?
+
+Porque sino quedaría todo amontonado en un solo archivo.
+
+c. ¿Será esta metodología de trabajo una constante de aquí en adelante?
+
+Si, incluso será útil para proyectos de mayor magnitud donde será importante manejar la modularización para que 
+respete un orden específico.
